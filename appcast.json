@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.2.1/MacLook-1.2.1.zip",
-  "notes": "재부팅 후 팬이 수동 모드로 정지한 채 남는 문제 수정 — 헬퍼가 시작할 때 항상 자동 모드로 복구. 헬퍼 상태 감시 및 팬 정지 경고 추가."
+  "version": "1.2.2",
+  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.2.2/MacLook-1.2.2.zip",
+  "notes": "macOS 27 베타가 서드파티 팬 제어(쓰기)를 차단하는 것을 감지해 정직하게 안내합니다 — 팬 모니터링과 macOS 자동 냉각은 정상. 관련 오탐 경고 제거, 외장 볼륨 권한 안내 추가."
 }
