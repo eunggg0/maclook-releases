@@ -15,5 +15,5 @@
 ## 요구 사항
 
 - Apple Silicon (M1~M5), macOS 15+
-- SMART 표시: `brew install smartmontools` (선택)
-- 팬 제어 활성화 시 관리자 암호 1회 (선택)
+- SSD 건강정보(SMART): 팬 제어 활성화(관리자 암호 1회)와 함께 자동으로 켜집니다 — 별도 설치 불필요
+- 동봉된 smartctl은 smartmontools(GPL-2.0)의 실행 파일입니다 (앱 내 고지 포함)
