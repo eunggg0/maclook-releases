@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.2.2/MacLook-1.2.2.zip",
-  "notes": "macOS 27 베타가 서드파티 팬 제어(쓰기)를 차단하는 것을 감지해 정직하게 안내합니다 — 팬 모니터링과 macOS 자동 냉각은 정상. 관련 오탐 경고 제거, 외장 볼륨 권한 안내 추가."
+  "version": "1.3.0",
+  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.3.0/MacLook-1.3.0.zip",
+  "notes": "맥 관리 종합 앱으로 확장 — 정리(캐시·로그·대용량파일·시작프로그램), 배터리 수명관리(충전제한·건강·전력앱), 네트워크 모니터(트래픽·인터페이스·Wi-Fi) 탭 추가. 사이드바 네비게이션, 모니터 탭 잘림 수정. 30개 항목 자가검증 통과."
 }
