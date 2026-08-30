@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.2.0/MacLook-1.2.0.zip",
-  "notes": "SSD 건강정보(SMART) 내장 — smartmontools 설치 불필요. 팬 제어 활성화만 하면 SMART도 함께 켜집니다. (smartctl 동봉, GPL-2.0 고지 포함)"
+  "version": "1.2.1",
+  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.2.1/MacLook-1.2.1.zip",
+  "notes": "재부팅 후 팬이 수동 모드로 정지한 채 남는 문제 수정 — 헬퍼가 시작할 때 항상 자동 모드로 복구. 헬퍼 상태 감시 및 팬 정지 경고 추가."
 }
