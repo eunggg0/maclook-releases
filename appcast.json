@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.1.0/MacLook-1.1.0.zip",
-  "notes": "첫 공개 버전"
+  "version": "1.2.0",
+  "url": "https://github.com/eunggg0/maclook-releases/releases/download/v1.2.0/MacLook-1.2.0.zip",
+  "notes": "SSD 건강정보(SMART) 내장 — smartmontools 설치 불필요. 팬 제어 활성화만 하면 SMART도 함께 켜집니다. (smartctl 동봉, GPL-2.0 고지 포함)"
 }
