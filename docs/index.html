@@ -246,6 +246,20 @@
     .stats { grid-template-columns: 1fr; }
     .hero { padding-top: 60px; } section { padding: 64px 0; }
     .dl { padding: 40px 22px; }
+    /* phone nav: icon + language + download only, nothing may overflow */
+    .wrap { padding: 0 18px; }
+    .nav .wrap { height: 56px; }
+    .brand { font-size: 16px; gap: 8px; } .brand img { width: 28px; height: 28px; }
+    .links { gap: 8px; } .links a:not(.cta-sm) { display: none; }
+    .lang { padding: 5px 24px 5px 10px; font-size: 12px; background-position: right 9px center; }
+    .nav .cta-sm { padding: 7px 12px; font-size: 12.5px; white-space: nowrap; }
+    .eyebrow { flex-wrap: wrap; justify-content: center; border-radius: 18px; padding: 8px 12px; gap: 6px 8px; text-align: center; }
+    .eyebrow b { white-space: nowrap; }
+    .hero h1 { letter-spacing: -1px; }
+    .plan { padding: 22px; }
+    .plan-h { flex-wrap: wrap; } .plan-h span { white-space: nowrap; } .plan-h b { font-size: 32px; }
+    .plan-h b i { font-size: 12px; }
+    .btn { padding: 12px 18px; font-size: 14.5px; }
   }
   @media (prefers-reduced-motion: reduce) { .aurora i, .chip, .ticker .row { animation: none; } .rv { transition: none; opacity: 1; transform: none; } }
 </style>
